@@ -47,7 +47,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto border-t border-neutral-800 mt-16 pt-8 flex flex-col md:flex-row justify-between items-center text-xs">
         <p>© 2026 ABDIL Events. All rights reserved.</p>
         <div className="flex space-x-6 mt-4 md:mt-0">
-          <a href="#" className="hover:text-white">Instagram</a>
+          <a href="https://www.instagram.com/abdil_b.e?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="hover:text-white">Instagram</a>
           <a href="#" className="hover:text-white">LinkedIn</a>
           <a href="#" className="hover:text-white">Pinterest</a>
         </div>
